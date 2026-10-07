@@ -43,7 +43,7 @@ The modified GAN achieved a lower FID score, indicating improved similarity betw
 ## 📂 Project Structure
 
 ```text
-├── GAN_Overhead_MNIST.ipynb
+├── main.ipynb
 └── README.md
 ```
 
